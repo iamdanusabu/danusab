@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danusab
+- 👋 Hi, I’m @danusabu
 - 👀 I’m interested in making youtube videos
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on different topics like fps boost pack etc
