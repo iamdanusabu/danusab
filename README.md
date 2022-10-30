@@ -1,4 +1,6 @@
 # Hi! 👋 I'm [DANU SABU](https://linktr.ee/danusabu) 💻
+<img align="right" src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif" ><br>
+
 <b>I'm a CyberSecurity Enthusiast</b>
 <br>
 <br>
