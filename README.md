@@ -1,5 +1,7 @@
 # Hi! 👋 I'm [DANU SABU](https://linktr.ee/danusabu) 💻
-I'm a CyberSecurity Enthusiast
+<b>I'm a CyberSecurity Enthusiast</b>
+<br>
+<br>
 
 <a href="https://www.instagram.com/imdanusabu"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt= "Danu Sabu Instagram profile" width="30"/></a>
 &ensp;<a href="https://www.youtube.com/channel/UC6zSvCi9lnpq0LrspoeioJw"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="Danu Sabu YouTube profile" width="40"/></a>
