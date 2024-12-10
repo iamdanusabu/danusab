@@ -5,8 +5,8 @@
 <br>
 <br>
 
-<a href="https://www.instagram.com/imdanusabu"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt= "Danu Sabu Instagram profile" width="30"/></a>
-&ensp;<a href="https://www.youtube.com/channel/UC6zSvCi9lnpq0LrspoeioJw"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="Danu Sabu YouTube profile" width="40"/></a>
+<a href="https://www.instagram.com/imdanusabu"></a>
+&ensp;<a href="https://www.youtube.com/channel/UC6zSvCi9lnpq0LrspoeioJw"></a>
 &ensp;<a href="https://www.linkedin.com/in/danu-sabu-a6420a146/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Danu Sabu Linkedin account" width="30"/></a>
 &ensp;<a href="https://github.com/iamdanusabu"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="Danu Sabu GitHub profile" width="30"/></a>
 <br>
